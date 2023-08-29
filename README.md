@@ -2,7 +2,7 @@
 
 Welcome to my github profile! I'm a software engineer, adept to the MERNG stack, experienced fullstack developer and problem solver 🧩
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFsc&show_icons=true&theme=dracula&custom_title=Lucas's%20Github%20Stats&hide=issues&line_height=24)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasFsc&show_icons=true&theme=dracula&custom_title=Lucas's%20Github%20Stats&hide=issues&hide_rank=true&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFsc&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks, Languages & Tools that I work with
